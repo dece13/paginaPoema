@@ -41,7 +41,7 @@ function generarPoema() {
     const poema = estructura
         .replace("{nombreDeTuNovia}", "Aura")
         .replace("{alegría}", "alegría")
-        .replace("{sonrisa}", "sonrisa")
+        .replace("{sonrisas}", "sonrisa")
         .replace("{aventuras}", "aventuras")
         .replace("{magia}", "magia")
         .replace("{complicidad}", "complicidad")
